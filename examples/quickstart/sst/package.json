@@ -10,12 +10,12 @@
   },
   "dependencies": {
     "@openauthjs/openauth": "^0.3.2",
-    "hono": "^4.6.16",
-    "next": "15.1.4",
+    "hono": "^4.13.13",
+    "next": "16.4.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "sst": "latest",
-    "valibot": "^1.0.0-beta.11"
+    "valibot": "^1.5.0"
   },
   "devDependencies": {
     "@types/node": "^20",
